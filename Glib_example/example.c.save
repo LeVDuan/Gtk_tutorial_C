@@ -1,0 +1,6 @@
+#include<glib.h>
+
+int mai()
+{
+	g_print("glib version number is %d.%d.%d\n", GLIB_MAJOR_VERSION, GLIB_MINOR_VERSI
+}

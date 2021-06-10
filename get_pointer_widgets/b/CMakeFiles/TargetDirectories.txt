@@ -1,0 +1,3 @@
+/home/duan0308/c_gtk_glade/get_pointer_widgets/b/CMakeFiles/rebuild_cache.dir
+/home/duan0308/c_gtk_glade/get_pointer_widgets/b/CMakeFiles/edit_cache.dir
+/home/duan0308/c_gtk_glade/get_pointer_widgets/b/CMakeFiles/pointer_struct.dir

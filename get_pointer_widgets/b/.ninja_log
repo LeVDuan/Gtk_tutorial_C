@@ -1,0 +1,7 @@
+# ninja log v5
+0	916	1621233219432600105	CMakeFiles/pointer_struct.dir/pointer_struct.c.o	d12e12f511fb41a8
+917	942	1621233219456600106	pointer_struct	ed3a6fc3fb728eea
+7	754	1621236861924827280	CMakeFiles/pointer_struct.dir/pointer_struct.c.o	d12e12f511fb41a8
+755	864	1621236862032827287	pointer_struct	ed3a6fc3fb728eea
+2	260	1621236964480833677	CMakeFiles/pointer_struct.dir/pointer_struct.c.o	d12e12f511fb41a8
+260	350	1621236964568833682	pointer_struct	ed3a6fc3fb728eea

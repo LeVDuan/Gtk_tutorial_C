@@ -1,0 +1,11 @@
+# ninja log v5
+0	496	1621226006860462961	CMakeFiles/widget_poiter.dir/widget_poiter.c.o	e4006246ee6c394a
+498	607	1621226006972462961	widget_poiter	e2bbf2655cff7cba
+1	256	1621226039600463154	CMakeFiles/widget_poiter.dir/widget_poiter.c.o	e4006246ee6c394a
+256	347	1621226039688463154	widget_poiter	e2bbf2655cff7cba
+1	335	1621226311628464757	CMakeFiles/widget_poiter.dir/widget_poiter.c.o	e4006246ee6c394a
+335	442	1621226311736464758	widget_poiter	e2bbf2655cff7cba
+2	557	1621226472588465706	CMakeFiles/widget_poiter.dir/widget_poiter.c.o	e4006246ee6c394a
+557	652	1621226472684465707	widget_poiter	e2bbf2655cff7cba
+2	240	1621226510268465928	CMakeFiles/widget_poiter.dir/widget_poiter.c.o	e4006246ee6c394a
+240	324	1621226510352465929	widget_poiter	e2bbf2655cff7cba

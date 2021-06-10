@@ -1,0 +1,5 @@
+# ninja log v5
+0	410	1621243231369224532	CMakeFiles/toggle_button.dir/toggle_button.c.o	c0ee6769693a010e
+412	437	1621243231393224533	toggle_button	1271aa3ab39e9c1a
+1	542	1621243885649265338	CMakeFiles/toggle_button.dir/toggle_button.c.o	c0ee6769693a010e
+542	638	1621243885741265344	toggle_button	1271aa3ab39e9c1a
